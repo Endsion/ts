@@ -32,5 +32,4 @@ Thumbs.db
 *.pyc
 *.pyo
 node_modules
-dist
 .vscode
